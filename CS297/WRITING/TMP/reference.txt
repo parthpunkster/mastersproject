@@ -1,0 +1,60 @@
+@article{Sewak_2018,
+   title={Comparison of Deep Learning and the Classical Machine Learning Algorithm for the Malware Detection},
+   ISBN={9781538658895},
+   url={http://dx.doi.org/10.1109/SNPD.2018.8441123},
+   DOI={10.1109/snpd.2018.8441123},
+   journal={2018 19th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)},
+   publisher={IEEE},
+   author={Sewak, Mohit and Sahay, Sanjay K. and Rathore, Hemant},
+   year={2018},
+   month={Jun}
+}
+
+
+@inproceedings{Cakir:2018:MCU:3190645.3190692,
+ author = {Cakir, Bugra and Dogdu, Erdogan},
+ title = {Malware Classification Using Deep Learning Methods},
+ booktitle = {Proceedings of the ACMSE 2018 Conference},
+ series = {ACMSE '18},
+ year = {2018},
+ isbn = {978-1-4503-5696-1},
+ location = {Richmond, Kentucky},
+ pages = {10:1--10:5},
+ articleno = {10},
+ numpages = {5},
+ url = {http://doi.acm.org/10.1145/3190645.3190692},
+ doi = {10.1145/3190645.3190692},
+ acmid = {3190692},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {classification, deep learning, machine learning, malware detection, supervised learning},
+} 
+
+
+@article{Raff2016AnIO,
+  title={An investigation of byte n-gram features for malware classification},
+  author={Edward Raff and Richard Zak and Russell J Cox and Jared Sylvester and Paul Yacci and Rebecca Ward and Anna Tracy and Mark McLean and Charles Nicholas},
+  journal={Journal of Computer Virology and Hacking Techniques},
+  year={2016},
+  volume={14},
+  pages={1-20}
+}
+
+
+@INPROCEEDINGS{8250369, 
+author={X. Meng and Z. Shan and F. Liu and B. Zhao and J. Han and H. Wang and J. Wang}, 
+booktitle={2017 International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery (CyberC)}, 
+title={MCSMGS: Malware Classification Model Based on Deep Learning}, 
+year={2017}, 
+volume={}, 
+number={}, 
+pages={272-275}, 
+keywords={data handling;invasive software;learning (artificial intelligence);neural nets;pattern classification;malware classification model;MCSMGS model;static malware genes;deep learning methods;SMGS_CNN module;classification accuracy;CNN model;static malware gene sequences-convolution neural network;SVM model;Malware;Hidden Markov models;Kernel;Convolution;Training;Feature extraction;Neural networks;malware gene sequence;intrinsic correlation;similarity;neural network;classification}, 
+doi={10.1109/CyberC.2017.21}, 
+ISSN={}, 
+month={Oct},}
+
+https://ibb.co/m2bxcc
+
+
+
